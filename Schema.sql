@@ -1,10 +1,9 @@
-### Read the diagram carefully and answer the below questions.
+-- DB-Assignment
+-- A database assignment for the role of Jr. Full Stack Developer at Future Skills.
 
-![ecommerce table](https://github.com/Patil-Shrikrishna/-DB-Assignment/blob/main/product-management-ecommerce-table-.webp)
+-- Question
 
-**Question**
-
-### 3. Create schema in any Database script or any ORM (Object Relational Mapping).
+-- 3. Create schema in any Database script or any ORM (Object Relational Mapping).
 
 -- product.sql
 CREATE TABLE product (
